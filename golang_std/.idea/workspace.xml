@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b967b17-da88-4978-b0f7-1712aaa59a3f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="F:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1n5zZJMMRz9SZmuzmYRAsXvuXHw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gin_study_2" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GoProjects\golang_std\gin_study_2" />
+      <recent name="F:\GoProjects\golang_std\gin_study_2\api" />
+      <recent name="F:\GoProjects\golang_std\model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build GinServer.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang_std" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/gin_study/GinServer.go" />
+      <package value="golang_std" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Json结构处理.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang_std" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch_12/Json结构处理.go" />
+      <package value="golang_std" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 路由分组.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang_std" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/gin_study/路由分组.go" />
+      <package value="golang_std" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 静态资源站点.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang_std" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/gin_study/静态资源站点.go" />
+      <package value="golang_std" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 指针和错误.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang_std" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/model/指针和错误.go" />
+      <package value="golang_std" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 和数据库打交道.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang_std" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch_03/和数据库打交道.go" />
+      <package value="golang_std" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 值传递.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang_std" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch_03/值传递.go" />
+      <package value="golang_std" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 类型断言.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang_std" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch_11/类型断言.go" />
+      <package value="golang_std" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 指针方法与值方法.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang_std" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch_11/指针方法与值方法.go" />
+      <package value="golang_std" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 接口.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang_std" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch_03/接口.go" />
+      <package value="golang_std" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 线程安全之读写锁.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang_std" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch_01/线程安全之读写锁.go" />
+      <package value="golang_std" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 线程协同.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang_std" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch_01/线程协同.go" />
+      <package value="golang_std" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 读取网络配置.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang_std" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch_07/读取网络配置.go" />
+      <package value="golang_std" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 结构体指针.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang_std" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch_07/结构体指针.go" />
+      <package value="golang_std" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 精度计算.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang_std" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch_07/精度计算.go" />
+      <package value="golang_std" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang_std" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/gin_study_2/main.go" />
+      <package value="golang_std" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go_test_测试" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="golang_std" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="." />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="golang_std" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/ch_02/测试_test.go" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Test.go_test_测试" />
+      <item itemvalue="Go Build.go build Json结构处理.go" />
+      <item itemvalue="Go Build.go build GinServer.go" />
+      <item itemvalue="Go Build.go build 静态资源站点.go" />
+      <item itemvalue="Go Build.go build 路由分组.go" />
+      <item itemvalue="Go Build.go build main.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build 路由分组.go" />
+        <item itemvalue="Go Build.go build 静态资源站点.go" />
+        <item itemvalue="Go Build.go build GinServer.go" />
+        <item itemvalue="Go Build.go build Json结构处理.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://proxy.golang.org</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="354" y="229" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612183576931">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="354" y="229" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1612183576931" />
+    <state x="675" y="239" key="#go_build_golang_std/ch_03" timestamp="1611657615712">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="675" y="239" key="#go_build_golang_std/ch_03/0.0.1920.1160@0.0.1920.1160" timestamp="1611657615712" />
+    <state x="675" y="239" key="#go_build_golang_std/ch_07" timestamp="1612439339263">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="675" y="239" key="#go_build_golang_std/ch_07/0.0.1920.1160@0.0.1920.1160" timestamp="1612439339263" />
+    <state x="675" y="240" key="#go_build_指针和错误.go" timestamp="1612263926118">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="675" y="240" key="#go_build_指针和错误.go/0.0.1920.1160@0.0.1920.1160" timestamp="1612263926118" />
+    <state x="675" y="240" key="#go_build_数组.go" timestamp="1610709531671">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="675" y="240" key="#go_build_数组.go/0.0.1920.1160@0.0.1920.1160" timestamp="1610709531671" />
+    <state x="675" y="240" key="#go_build_类型转换.go" timestamp="1612692344018">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="675" y="240" key="#go_build_类型转换.go/0.0.1920.1160@0.0.1920.1160" timestamp="1612692344018" />
+    <state x="675" y="240" key="#go_build_面向对象.go" timestamp="1612182860720">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="675" y="240" key="#go_build_面向对象.go/0.0.1920.1160@0.0.1920.1160" timestamp="1612182860720" />
+    <state x="675" y="247" key="#golang_std_测试.go" timestamp="1610704523042">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="675" y="247" key="#golang_std_测试.go/0.0.1920.1160@0.0.1920.1160" timestamp="1610704523042" />
+    <state x="549" y="288" key="FileChooserDialogImpl" timestamp="1612862800217">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="549" y="288" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1612862800217" />
+    <state width="1877" height="495" key="GridCell.Tab.0.bottom" timestamp="1612863127883">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="495" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1612863127883" />
+    <state width="1877" height="495" key="GridCell.Tab.0.center" timestamp="1612863127883">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="495" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1612863127883" />
+    <state width="1877" height="495" key="GridCell.Tab.0.left" timestamp="1612863127883">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="495" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1612863127883" />
+    <state width="1877" height="495" key="GridCell.Tab.0.right" timestamp="1612863127883">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="495" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1612863127883" />
+    <state width="1877" height="333" key="GridCell.Tab.1.bottom" timestamp="1612837245521">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="333" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1612837245521" />
+    <state width="1877" height="333" key="GridCell.Tab.1.center" timestamp="1612837245521">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="333" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1612837245521" />
+    <state width="1877" height="333" key="GridCell.Tab.1.left" timestamp="1612837245521">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="333" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1612837245521" />
+    <state width="1877" height="333" key="GridCell.Tab.1.right" timestamp="1612837245521">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="333" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1612837245521" />
+    <state x="308" y="140" key="SettingsEditor" timestamp="1612857102466">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="308" y="140" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1612857102466" />
+    <state x="681" y="321" width="555" height="524" key="StructurePopup" timestamp="1612695859267">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="681" y="321" width="555" height="524" key="StructurePopup/0.0.1920.1160@0.0.1920.1160" timestamp="1612695859267" />
+    <state x="647" y="228" width="626" height="597" key="find.popup" timestamp="1612687519918">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="647" y="228" width="626" height="597" key="find.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1612687519918" />
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1612770241622">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1612770241621" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="*(*&quot;uint8&quot;)(824634925186)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
